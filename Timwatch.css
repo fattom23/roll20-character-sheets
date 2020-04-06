@@ -1,0 +1,15 @@
+.sheet-abilities{
+    
+    background-color: gray;
+}
+
+.sheet-character_column{
+    
+    float: left;
+    width: 50%;
+}
+
+.sheet-column {
+    float: left;
+    width: 25%;
+}
